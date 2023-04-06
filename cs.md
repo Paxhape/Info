@@ -9,8 +9,10 @@
 
 ### Pripojenie ku sieti
 
-1. Otvor zerotier klienta 
+1. Otvor zerotier klienta (zlta ikona s listom v spodnej liste)
+
 ![Zerotier_running](/zerotier.png)
+
 2. Klikni **Join New Network**
 3. Zadaj NetworkID, ktore ti poslal tvorca Servera
 4. Potvrd pomocou OK 
